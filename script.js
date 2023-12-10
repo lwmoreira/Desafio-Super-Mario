@@ -11,7 +11,7 @@ function cliqueiNoBotao() {
 }
 
 function sendForm() {
-    form.style.left = "-258px"
+    form.style.left = "-300px"
     masc.style.visibility = "hidden"
     audioItsmeMario.play();
  }
