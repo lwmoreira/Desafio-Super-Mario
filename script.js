@@ -4,7 +4,7 @@ let audioItsmeMario = document.querySelector('.audioItsmeMario')
 let submitAudio = document.querySelector('.submit-audio')
 
 function cliqueiNoBotao() {
-    form.style.left = "400px"
+    form.style.left = "420px"
     masc.style.visibility = "visible"
     submitAudio.play();
 
